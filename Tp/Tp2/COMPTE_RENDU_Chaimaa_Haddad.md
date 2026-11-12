@@ -245,3 +245,4 @@ Dernière ligne de `python -m pytest` avec `headers=HEADERS` :
 ## 9. Ce qui reste flou
 
 Tout a été expérimenté et validé : l'ordre de traitement HTTP (sécurité en premier -> validation Pydantic en second), le rôle protecteur de CORS dans le navigateur et l'isolation des secrets hors de Git.
+
